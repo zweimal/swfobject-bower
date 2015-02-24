@@ -1,5 +1,11 @@
 {
   "name": "swfobject",
   "version": "2.3.0",
-  "main": "./swfobject/swfobject.js"
+  "main": "./swfobject/swfobject.js",
+  "ignore": [
+    "swfobjet_generator",
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
 }
