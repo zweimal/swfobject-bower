@@ -1,0 +1,10 @@
+{
+  "name": "swfobject-bower",
+  "version": "2.2.0",
+  "main": "./swfobject/swfobject.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
