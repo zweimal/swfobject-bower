@@ -1,5 +1,5 @@
 {
-  "name": "swfobject",
+  "name": "swfobject-bower",
   "version": "2.3.0",
   "main": "./swfobject/swfobject.js",
   "ignore": [
